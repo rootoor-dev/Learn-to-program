@@ -56,7 +56,7 @@ My approach to learning new programming languages is well-structured and methodi
 # HOW TO ?
 
 ## New Languages I Want to Learn  
-This document outlines how I learned to program in various languages and the time it took me to master them. I am a programmer with experience in **C, C++, Java, Web technologies (PHP, HTML5, CSS3, Sass), JavaScript, R, and Python**. However, new and exciting programming languages continue to emerge, and I am eager to learn them through self-teaching.  
+This document outlines how I learned to program in various languages and the time it took me to master them. I am a programmer with 1 to 5 years experience in **C, C++, Java, Web technologies (PHP, HTML5, CSS3, Sass), JavaScript, R, and Python**. However, new and exciting programming languages continue to emerge, and I am eager to learn them through self-teaching.  
 
 I believe that thoroughly studying the official documentation is the best way to acquire accurate information and learn a language effectively. Below, I will share my approach to learning new programming languages and the strategies I use to master them.  
 
