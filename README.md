@@ -163,7 +163,7 @@ Here’s a breakdown of the programming languages I’ve learned, along with the
      - Create a lightweight database or cache system.  
      - Develop a cross-platform desktop application.  
 
-#### 5. **Zig**  
+#### 5. **Zig and Odin**  
    - **Known for:** Simplicity, performance, and low-level control.  
    - **Use Cases:** System programming, embedded systems, and performance-critical applications.  
    - **Projects to Test My Knowledge:**  
